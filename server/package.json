@@ -1,0 +1,28 @@
+{
+  "name": "cliff.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.3",
+    "nodemon": "^2.0.19",
+    "fs": "^0.0.1-security",
+    "googleapis": "^105.0.0",
+    "googleapis-common": "^6.0.0",
+    "path": "^0.12.7",
+    "open": "^8.0.0",
+    "opn": "^6.0.0"
+  }
+}
